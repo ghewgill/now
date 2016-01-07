@@ -1,0 +1,1 @@
+RewriteRule ^$ _site/index.html
