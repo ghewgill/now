@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Now
-date: 2016-01-07
+date: 2016-01-13
 ---
 
 # Now
@@ -9,8 +9,8 @@ date: 2016-01-07
 Last updated on {{ page.date | date: '%e %B %Y' }}
 
 * Building the [Neon programming language](http://neon-lang.org)
+* Setting up [duplicity](http://duplicity.nongnu.org) for robust server backups
 * Designing a new kitchen for the house
-* Settling back into home in Christchurch
 * Automating publishing of this page
 
 This /now page was inspired by [Derek Sivers. What are you working on?](http://sivers.org/nowff).
