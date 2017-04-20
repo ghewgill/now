@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Now
-date: 2016-02-04
+date: 2017-04-21
 ---
 
 # Now
@@ -9,8 +9,7 @@ date: 2016-02-04
 Last updated on {{ page.date | date: '%e %B %Y' }}
 
 * Building the [Neon programming language](http://neon-lang.org)
-* Setting up [duplicity](http://duplicity.nongnu.org) for robust server backups
-* Setting up SSL on this server with [Let's Encrypt](https://letsencrypt.org)
-* Designing a new kitchen for the house
+* Playing with [Standard Notes](https://standardnotes.org/) and thinking about building a Standard Tasks model/app
+* Fixing up my [Free 15C](http://free15c.com/) app for iOS
 
 This /now page was inspired by [Derek Sivers. What are you working on?](http://sivers.org/nowff).
