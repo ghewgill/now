@@ -3,7 +3,6 @@
 Last updated on {{date}}
 
 * Building the [Neon programming language](http://neon-lang.org)
-* Migrating https://hewgill.com server to [OpenBSD](https://openbsd.org)
 * Playing with [Standard Notes](https://standardnotes.org/) and thinking about building a Standard Tasks model/app
 * Fixing up my [Free 15C](http://free15c.com/) app for iOS
 
